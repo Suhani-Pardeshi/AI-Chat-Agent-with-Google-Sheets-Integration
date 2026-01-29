@@ -73,8 +73,7 @@
 # 📷 Workflow Screenshot :
 * <img width="1920" height="908" alt="Editing AI-Chat-Agent-with-Google-Sheets-Integration_README md at main · Suhani-Pardeshi_AI-Chat-Agent-with-Google-Sheets-Integration - Google Chrome 29-01-2026 21_41_57" src="https://github.com/user-attachments/assets/c19ab9c6-b105-485c-91a0-b15ad0b851f2" />
 * <img width="1920" height="905" alt="Editing AI-Chat-Agent-with-Google-Sheets-Integration_README md at main · Suhani-Pardeshi_AI-Chat-Agent-with-Google-Sheets-Integration - Google Chrome 29-01-2026 21_56_18" src="https://github.com/user-attachments/assets/01a4fb35-c2f5-4627-b221-94cdbe35493d" />
-
-* *<img width="1920" height="905" alt="Editing AI-Chat-Agent-with-Google-Sheets-Integration_README md at main · Suhani-Pardeshi_AI-Chat-Agent-with-Google-Sheets-Integration - Google Chrome 29-01-2026 21_52_29" src="https://github.com/user-attachments/assets/0a384c5c-9903-43aa-a809-dc66b7e11965" />
+* <img width="1920" height="905" alt="Editing AI-Chat-Agent-with-Google-Sheets-Integration_README md at main · Suhani-Pardeshi_AI-Chat-Agent-with-Google-Sheets-Integration - Google Chrome 29-01-2026 21_52_29" src="https://github.com/user-attachments/assets/e83994b7-d90b-4f83-b98f-8f60a3cf8c62" />
 * <img width="1920" height="902" alt="Editing AI-Chat-Agent-with-Google-Sheets-Integration_README md at main · Suhani-Pardeshi_AI-Chat-Agent-with-Google-Sheets-Integration - Google Chrome 29-01-2026 21_53_01" src="https://github.com/user-attachments/assets/dd7edf7e-d128-40ff-bd5e-8fcf212b7c60" />
 
 
@@ -82,6 +81,3 @@
 # 🏁 Conclusion
 
 * This project showcases how AI and automation can be combined to build intelligent, data-aware systems that improve efficiency and decision-making in real-world business scenarios.
-🏁 Conclusion
-
-This project showcases how AI and automation can be combined to build intelligent, data-aware systems that improve efficiency and decision-making in real-world business scenarios.
